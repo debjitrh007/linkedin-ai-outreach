@@ -20,7 +20,7 @@ Automate LinkedIn lead generation using AI-powered workflows. This project extra
 ## 🚀 Installation & Setup  
 
 1. **Download the JSON file**  
-   - Get the `workflow.json` file from [https://github.com/debjitrh007/linkedin-ai-outreach/blob/main/Linkedin_Lead_Generation.json](#).  
+   - Get the `workflow.json` file from [here]([#](https://github.com/debjitrh007/linkedin-ai-outreach/blob/main/Linkedin_Lead_Generation.json)).  
 
 2. **Import the JSON file into n8n**  
    - Open your n8n instance.  
